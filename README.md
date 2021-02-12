@@ -1,6 +1,6 @@
 # loober_rider
 
-Rider side of Loober; a free ride-sharing app for Tougaloo students
+Rider side of the Loober ride-sharing app on both Android and iOS
 
 ## Getting Started
 
