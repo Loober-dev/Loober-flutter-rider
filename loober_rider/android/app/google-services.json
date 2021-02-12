@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249128365143",
+    "project_id": "loober-flutter",
+    "storage_bucket": "loober-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249128365143:android:2b34c54d00b2c3f16fc712",
+        "android_client_info": {
+          "package_name": "com.example.looberrider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249128365143-87m7oqpbrq03kqigp1jve7avlnblaovt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHVXZ6yqcL_96tWf26yhg9igR20jLKOmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249128365143-87m7oqpbrq03kqigp1jve7avlnblaovt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
